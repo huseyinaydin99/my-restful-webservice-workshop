@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/tr/com/huseyinaydin/dao/MusteriDAO.java=UTF-8
+encoding//src/tr/com/huseyinaydin/dao/impl/MusteriDAOImpl.java=UTF-8
+encoding//src/tr/com/huseyinaydin/model/pojo/entity/bean/Musteri.java=UTF-8
+encoding//src/tr/com/huseyinaydin/ws/MusteriRESTfulService.java=UTF-8
+encoding//src/tr/com/huseyinaydin/ws/client/MusteriRESTfulClient.java=UTF-8
