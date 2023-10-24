@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/tr/com/huseyinaydin/client/RESTfulRESTEasyClient.java=UTF-8
+encoding//src/tr/com/huseyinaydin/kullanici/KullanciServis.java=UTF-8
+encoding//src/tr/com/huseyinaydin/kullanici/Kullancilar.java=UTF-8
+encoding//src/tr/com/huseyinaydin/kullanici/Kullanici.java=UTF-8
+encoding//src/tr/com/huseyinaydin/kurs/Kurs.java=UTF-8
+encoding//src/tr/com/huseyinaydin/kurs/KursServis.java=UTF-8
+encoding//src/tr/com/huseyinaydin/ogrenci/Ogrenci.java=UTF-8
+encoding//src/tr/com/huseyinaydin/ogrenci/OgrenciServis.java=UTF-8
