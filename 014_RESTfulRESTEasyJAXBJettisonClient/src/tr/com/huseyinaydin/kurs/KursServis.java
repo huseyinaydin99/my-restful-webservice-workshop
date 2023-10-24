@@ -15,7 +15,7 @@ import org.jboss.resteasy.annotations.providers.jaxb.json.BadgerFish;
 * 
 * @author Huseyin_Aydin
 * @since 1994
-* @category Java, Spring Boot.
+* @category Java, RESTful Web Services.
 * 
 */
 

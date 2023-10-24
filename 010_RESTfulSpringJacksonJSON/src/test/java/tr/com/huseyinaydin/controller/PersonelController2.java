@@ -17,12 +17,12 @@ import tr.com.huseyinaydin.model.Personel;
 //بسم الله الرحمن الرحيم
 
 /**
- * 
- * @author Huseyin_Aydin
- * @since 1994
- * @category Java, Spring Boot.
- * 
- */
+* 
+* @author Huseyin_Aydin
+* @since 1994
+* @category Java, RESTful Web Services, Spring, Jackson.
+* 
+*/
 
 // http:localhost:8080/_010_RESTfulSpringJacksonJSON/personel
 @Controller

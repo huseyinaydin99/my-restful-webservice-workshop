@@ -8,7 +8,7 @@ import org.codehaus.jackson.annotate.JsonAutoDetect;
 * 
 * @author Huseyin_Aydin
 * @since 1994
-* @category Java, Spring Boot.
+* @category Java, RESTful Web Services, Spring, Jackson.
 * 
 */
 

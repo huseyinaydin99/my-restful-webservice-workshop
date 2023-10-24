@@ -16,7 +16,7 @@ import com.sun.xml.bind.XmlAccessorFactory;
 * 
 * @author Huseyin_Aydin
 * @since 1994
-* @category Java, Spring Boot.
+* @category Java, RESTful Web Services.
 * 
 */
 

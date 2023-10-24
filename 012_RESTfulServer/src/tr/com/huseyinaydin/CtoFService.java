@@ -14,7 +14,7 @@ import org.json.JSONObject;
 * 
 * @author Huseyin_Aydin
 * @since 1994
-* @category Java, Spring Boot.
+* @category Java, RESTful Web Services.
 * 
 */
 

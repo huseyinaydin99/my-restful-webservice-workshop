@@ -11,12 +11,12 @@ import org.json.JSONObject;
 //بسم الله الرحمن الرحيم
 
 /**
- * 
- * @author Huseyin_Aydin
- * @since 1994
- * @category Java, Spring Boot.
- * 
- */
+* 
+* @author Huseyin_Aydin
+* @since 1994
+* @category Java, RESTful Web Services.
+* 
+*/
 
 // http://localhost:8080/_012_RESTfulServer/ftocservice
 @Path("/ftocservice")

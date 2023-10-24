@@ -15,7 +15,7 @@ import javax.ws.rs.core.Response;
 * 
 * @author Huseyin_Aydin
 * @since 1994
-* @category Java, Spring Boot.
+* @category Java, RESTful Web Services.
 * 
 */
 

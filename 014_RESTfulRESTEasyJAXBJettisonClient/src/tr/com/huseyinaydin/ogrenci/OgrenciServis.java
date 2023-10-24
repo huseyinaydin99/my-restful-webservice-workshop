@@ -11,12 +11,12 @@ import javax.ws.rs.core.Response;
 //بسم الله الرحمن الرحيم
 
 /**
- * 
- * @author Huseyin_Aydin
- * @since 1994
- * @category Java, Spring Boot.
- * 
- */
+* 
+* @author Huseyin_Aydin
+* @since 1994
+* @category Java, RESTful Web Services.
+* 
+*/
 
 //  http://localhost:8080/_014_RESTfulRESTEasyJAXBJettisonClient/rest/ogrenci
 @Path("/ogrenci")

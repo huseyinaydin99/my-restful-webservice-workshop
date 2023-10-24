@@ -12,12 +12,12 @@ import tr.com.huseyinaydin.ogrenci.Ogrenci;
 //بسم الله الرحمن الرحيم
 
 /**
- * 
- * @author Huseyin_Aydin
- * @since 1994
- * @category Java, Spring Boot.
- * 
- */
+* 
+* @author Huseyin_Aydin
+* @since 1994
+* @category Java, RESTful Web Services.
+* 
+*/
 
 public class RESTfulRESTEasyClient {
 

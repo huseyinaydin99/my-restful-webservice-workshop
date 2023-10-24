@@ -28,7 +28,7 @@ import com.sun.jersey.api.client.WebResource;
 * 
 * @author Huseyin_Aydin
 * @since 1994
-* @category Java, Spring Boot.
+* @category Java, RESTful Web Services.
 * 
 */
 
